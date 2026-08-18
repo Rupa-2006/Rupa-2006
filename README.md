@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sompalli Rupa Sree<br>💻 B.Tech 3nd Year | Cyber Security Department<br>🐍 Mostly use Python | Also familiar with C, HTML, SQL<br>🔐 Interested in Ethical Hacking, Network Security, and Programming<br>🎯 Building projects to improve skills in cybersecurity and coding<br>🌱 Exploring real-world applications<br>📫 Contact: rupasreesompalli@gmail.com
+👋 Hi, I’m Sompalli Rupa Sree<br>💻 B.Tech 3rd Year | Cyber Security Department<br>🐍 Mostly use Python | Also familiar with C, HTML, SQL<br>🔐 Interested in Ethical Hacking, Network Security, and Programming<br>🎯 Building projects to improve skills in cybersecurity and coding<br>🌱 Exploring real-world applications<br>📫 Contact: rupasreesompalli@gmail.com
 
 
 ## 🌐 Socials:
